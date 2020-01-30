@@ -1,0 +1,11 @@
+C:\Users\baxte\source\repos\Lab_9_Refactoring_Time\Lab_9_Refactoring_Time\bin\Debug\netcoreapp3.1\Lab_9_Refactoring_Time.exe
+C:\Users\baxte\source\repos\Lab_9_Refactoring_Time\Lab_9_Refactoring_Time\bin\Debug\netcoreapp3.1\Lab_9_Refactoring_Time.deps.json
+C:\Users\baxte\source\repos\Lab_9_Refactoring_Time\Lab_9_Refactoring_Time\bin\Debug\netcoreapp3.1\Lab_9_Refactoring_Time.runtimeconfig.json
+C:\Users\baxte\source\repos\Lab_9_Refactoring_Time\Lab_9_Refactoring_Time\bin\Debug\netcoreapp3.1\Lab_9_Refactoring_Time.runtimeconfig.dev.json
+C:\Users\baxte\source\repos\Lab_9_Refactoring_Time\Lab_9_Refactoring_Time\bin\Debug\netcoreapp3.1\Lab_9_Refactoring_Time.dll
+C:\Users\baxte\source\repos\Lab_9_Refactoring_Time\Lab_9_Refactoring_Time\bin\Debug\netcoreapp3.1\Lab_9_Refactoring_Time.pdb
+C:\Users\baxte\source\repos\Lab_9_Refactoring_Time\Lab_9_Refactoring_Time\obj\Debug\netcoreapp3.1\Lab_9_Refactoring_Time.csprojAssemblyReference.cache
+C:\Users\baxte\source\repos\Lab_9_Refactoring_Time\Lab_9_Refactoring_Time\obj\Debug\netcoreapp3.1\Lab_9_Refactoring_Time.AssemblyInfoInputs.cache
+C:\Users\baxte\source\repos\Lab_9_Refactoring_Time\Lab_9_Refactoring_Time\obj\Debug\netcoreapp3.1\Lab_9_Refactoring_Time.AssemblyInfo.cs
+C:\Users\baxte\source\repos\Lab_9_Refactoring_Time\Lab_9_Refactoring_Time\obj\Debug\netcoreapp3.1\Lab_9_Refactoring_Time.dll
+C:\Users\baxte\source\repos\Lab_9_Refactoring_Time\Lab_9_Refactoring_Time\obj\Debug\netcoreapp3.1\Lab_9_Refactoring_Time.pdb
